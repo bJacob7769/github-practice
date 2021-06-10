@@ -1,2 +1,2 @@
-# super-duper-funicular
+# github-practice
 my first repository for bitwise
